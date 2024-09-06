@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_cdltd_cicd.CICD_Demo</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>CICD Demo</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 14:23:42</sys_created_on>
+        <sys_id>cd1678e89fa012107f44ee743524ab72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cicd.CICD_Demo</sys_name>
+        <sys_package display_value="CICD" source="x_cdltd_cicd">c5a5f0ec9fa012107f44ee743524abfc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD">c5a5f0ec9fa012107f44ee743524abfc</sys_scope>
+        <sys_update_name>sys_alias_cd1678e89fa012107f44ee743524ab72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 14:23:42</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CICD">c5a5f0ec9fa012107f44ee743524abfc</application>
+        <file_path/>
+        <instance_id>45ba575b47dc56146ff11873e16d4303</instance_id>
+        <instance_name>nowlearning-nlinst02034883-dev-0001</instance_name>
+        <name>sys_alias_cd1678e89fa012107f44ee743524ab72</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_cdltd_cicd.CICD_Demo</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>CICD Demo</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-06 14:23:42</sys_created_on><sys_id>cd1678e89fa012107f44ee743524ab72</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_cicd.CICD_Demo</sys_name><sys_package display_value="CICD" source="x_cdltd_cicd">c5a5f0ec9fa012107f44ee743524abfc</sys_package><sys_policy/><sys_scope display_value="CICD">c5a5f0ec9fa012107f44ee743524abfc</sys_scope><sys_update_name>sys_alias_cd1678e89fa012107f44ee743524ab72</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-06 14:23:42</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1449317874</payload_hash>
+        <record_name>x_cdltd_cicd.CICD_Demo</record_name>
+        <reverted_from/>
+        <source>c9a5f0ec9fa012107f44ee743524abfe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 14:23:42</sys_created_on>
+        <sys_id>2426fcec9fa012107f44ee743524abae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c7b82fb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 14:23:42</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>6826fcec70a012108ffc80269d8d97ad</update_guid>
+        <update_guid_history>6826fcec70a012108ffc80269d8d97ad:1449317874</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 14:29:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>2e4fc907297c445c9e3a72b8efef61a1</sys_id>
+        <sys_metadata>cd1678e89fa012107f44ee743524ab72</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cicd.CICD_Demo</sys_name>
+        <sys_package display_value="CICD" source="x_cdltd_cicd">c5a5f0ec9fa012107f44ee743524abfc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CICD">c5a5f0ec9fa012107f44ee743524abfc</sys_scope>
+        <sys_scope_delete display_value="">6150461996d54e159ff0a89ed98d3e21</sys_scope_delete>
+        <sys_update_name>sys_alias_cd1678e89fa012107f44ee743524ab72</sys_update_name>
+        <sys_update_version display_value="sys_alias_cd1678e89fa012107f44ee743524ab72">2426fcec9fa012107f44ee743524abae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 14:29:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
